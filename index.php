@@ -18,7 +18,7 @@ echo "<br>";
 echo "<br>";
 
 // An encrypted message is created from a stringg
-$textMessage = "Hello I'm a normal message";
+$textMessage = "Hello I'm a message";
 echo "Message normal: <b>$textMessage</b>";
 
 

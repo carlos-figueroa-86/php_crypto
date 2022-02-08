@@ -8,7 +8,7 @@ trait Crypto
   public static $encrypt_method = 'AES-256-CBC';
 
   // API KEY para encriptar y desencriptar los mensajes
-  public static $key = 'aqui_un_key_grande_y_secreto';
+  public static $key = '{api_key}';
 
   public static function encrypterMessage($message)
   {
